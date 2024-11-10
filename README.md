@@ -1,5 +1,11 @@
 # Features
 
+- create react app
+- Configured tailwind
+- Header
+- Tailwind
+- Login form
+
 - Login/Sign up
   - Sign In/Sign up form
   - redirect to browser page
